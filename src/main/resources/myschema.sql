@@ -1,0 +1,1 @@
+create table employee(id INTEGER PRIMARY KEY AUTO_INCREMENT, name varchar(30));
